@@ -1,0 +1,5 @@
+2 5 1
+0 3 3
+5 0 5
+abc 5 Not_Possible
+abc xyz Not_Possible
